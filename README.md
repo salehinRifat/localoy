@@ -119,9 +119,9 @@ This loop — **post → match → complete → rate** — is the heart of the p
   - 🚨 Robbery
   - 🩺 Medical Emergency
   - 🔥 Fire
-  - ⚠️ General SOS Alert *(placeholder — confirm exact category name/behavior)*
   
   Triggering it immediately sends the user's live location, match ID, and selected category to admins/moderators and the user's stored emergency contact, so a response can be routed appropriately instead of a single generic alert.
+- **MUN Alert** — A separate, standalone button (distinct from the panic button) for reporting a missing person/child, modeled on Bangladesh's national MUN Alert (Missing Urgent Notification) system ([munalert.org](https://munalert.org)). Not tied to an active match — accessible from anywhere in the app.
 - **Check-in confirmation** — Both parties confirm the agreed meeting time/location; if neither marks "arrived" within a set window, a soft alert is triggered.
 - **Emergency contact field** on user profile, used only by the panic button.
 - **Report / Block user**, feeding into admin moderation tools.
