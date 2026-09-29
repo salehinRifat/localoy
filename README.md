@@ -4,8 +4,9 @@
 ## Abu Salehin Rifat 1976
 ## Sadika Islam Barna 2007
 
+---
 
-# Hyperlocal Mutual Aid Platform
+# Localoy -  Hyperlocal Mutual Aid Platform
 
 A neighborhood-based web application where people post needs ("I need a ladder") and offers ("I can drive someone to the hospital"), and the system matches them based on location, category, and trust. It replaces unstructured group chats and spreadsheets with a purpose-built tool that brings structure, safety, and accountability to community mutual aid.
 
